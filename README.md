@@ -2,7 +2,7 @@
 ## GraphQL Employee Management System
 
 ### Student Information
-- **Name:** (Put your name here)
+- **Name:** Anudhin Thomas
 - **Student ID:** 101516423
 - **Course:** COMP3133 – Full Stack Development
 - **Semester:** Winter 2026
